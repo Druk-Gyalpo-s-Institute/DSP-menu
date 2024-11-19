@@ -1,0 +1,189 @@
+{
+  "menu": [
+    {
+      "category": "Appetizers",
+      "items": [
+        {
+          "name": "Deep Fry Shrimp Roll",
+          "description": "Crispy Shrimp in Rice Paper served with Three Flavor Sauce",
+          "price": 120
+        },
+        {
+          "name": "Shrimp Shumai",
+          "description": "Fried Shrimp wrapped in Wonton Pastry served with Black Vinaigrette",
+          "price": 120
+        },
+        {
+          "name": "Spicy Korean Chicken",
+          "description": "Fried Chicken served with Korean Spicy Sauce",
+          "price": 120
+        },
+        {
+          "name": "BFC",
+          "description": "Fried Chicken served with Red Chili Sauce and Ketchup",
+          "price": 120
+        },
+        {
+          "name": "Cheese Rangoon",
+          "description": "Wonton Pastry filled with Mixed Cheese with Three Flavor Sauce",
+          "price": 120
+        },
+        {
+          "name": "Fries/Chili Fries",
+          "description": "Fries coated with Sweet and Sour Sauce",
+          "price": 120
+        },
+        {
+          "name": "Hat Yai Fried Chicken",
+          "description": "Chicken marinated with Thai Spices and Herbs, then Deep-Fried until Golden Brown served with Three Flavor Sauce",
+          "price": 120
+        },
+        {
+          "name": "Okonomiyaki",
+          "description": "Pan-Fried Cabbage served with Eggless Mayonnaise and Okonomiyaki Sauce",
+          "price": 120
+        }
+      ]
+    },
+    {
+      "category": "Main Courses",
+      "items": [
+        {
+          "name": "Pineapple Fried Rice",
+          "description": "Indonesian-style Fried Rice cooked with Pineapple and Cashew Nuts",
+          "price": 150
+        },
+        {
+          "name": "Pad Thai Noodles",
+          "description": "Stir-fried Rice Noodle with a Pad Thai Sauce served with Crushed Peanuts and Chili",
+          "price": 150
+        },
+        {
+          "name": "Mongolian Chicken",
+          "description": "Crispy Fried Chicken tossed in a Special Made Sauce, Chili, and Steamed Rice",
+          "price": 150
+        },
+        {
+          "name": "Tonkatsu Ramen with Katsu",
+          "description": "A bowl of Home-made Ramen in Flavorful Broth served with Breaded and Fried Chicken Cutlet",
+          "price": 250
+        },
+        {
+          "name": "Tom Yum with Rice Noodles",
+          "description": "Thai Spicy Sour Soup known for its Bold Flavor with Rice Noodle",
+          "options": ["Chicken", "Shrimp", "Tofu"],
+          "price": 250
+        },
+        {
+          "name": "Hand Made Ramen Creamy Tom Yum",
+          "description": "Cream Tonkatsu Soup seasoned with Spicy and Sour Sauce served with Home-made Egg Noodle",
+          "options": ["Chicken", "Shrimp", "Tofu"],
+          "price": 250
+        }
+      ]
+    },
+    {
+      "category": "Curry Specials",
+      "items": [
+        {
+          "name": "Chicken Korma",
+          "description": "Tender Chicken cooked in Creamy Gravy made with Yogurt, Onion, and Indian Spices",
+          "price": 180
+        },
+        {
+          "name": "Chicken Vindaloo Curry",
+          "description": "Spicy and Tangy Curry originating from Goa, India",
+          "price": 180
+        },
+        {
+          "name": "Butter Chicken",
+          "description": "Classic Indian Dish featuring Chicken cooked in a Rich Tomato and Butter-based Curry Sauce",
+          "price": 180
+        },
+        {
+          "name": "Green Curry with Steamed Rice",
+          "description": "Creamy, fragrant Curry with Chicken and Veggies in Coconut Milk infused with Green Curry",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "category": "Creative Dishes",
+      "items": [
+        {
+          "name": "Malaysian Style Nasi Goreng",
+          "description": "Malaysian-style Fried Rice with Special Seasoning, Sambal, and Spices",
+          "price": 250
+        },
+        {
+          "name": "Malaysian Style Mee Goreng",
+          "description": "Handmade Egg Noodle stir-fried with Special Sauce, Sambal, and Spices",
+          "price": 250
+        },
+        {
+          "name": "Malaysian Style Nasi Lemak",
+          "description": "Homemade Chili Sambal served with Fried Egg and Crispy Fried Chicken",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "items": [
+        {
+          "name": "European Style Continental",
+          "description": "Poached Egg on top of Parmesan Cheese Toasted, Spicy Mayonnaise served with Butter and Jam",
+          "price": 180
+        },
+        {
+          "name": "American Style Continental",
+          "description": "Sunny Side-up Fried Egg with Grilled Toast, Baked Tomatoes, and Chicken Sausage",
+          "price": 180
+        },
+        {
+          "name": "English Style Continental",
+          "description": "Scrambled Egg served with Buckwheat Pancake, Butter, and Honey",
+          "price": 180
+        },
+        {
+          "name": "Egg (2no) of Your Choice",
+          "description": "Soft-Boiled Egg, Hard-Boiled Egg, Omelets, or Fried Egg",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "category": "Beverages",
+      "items": [
+        {
+          "name": "Espresso Single",
+          "price": 90
+        },
+        {
+          "name": "Espresso Double",
+          "price": 100
+        },
+        {
+          "name": "Latte",
+          "price": 120
+        },
+        {
+          "name": "Cappuccino",
+          "price": 120
+        },
+        {
+          "name": "Hot Chocolate",
+          "price": 120
+        },
+        {
+          "name": "Iced Americano",
+          "price": 110
+        },
+        {
+          "name": "Iced Latte",
+          "price": 130
+        }
+      ]
+    }
+  ]
+}
