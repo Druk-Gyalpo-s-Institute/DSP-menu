@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dungkar Cafe</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="splash-screen">
+        <div class="skip-hint">
+            <span>Click anywhere to skip</span>
+        </div>
+        <div class="splash-content">
+            <div class="welcome-text">
+                <span>✨</span>
+                <span>W</span>
+                <span>e</span>
+                <span>l</span>
+                <span>c</span>
+                <span>o</span>
+                <span>m</span>
+                <span>e</span>
+                <span>&nbsp;</span>
+                <span>t</span>
+                <span>o</span>
+                <span>&nbsp;</span>
+                <span>t</span>
+                <span>h</span>
+                <span>e</span>
+                <span>&nbsp;</span>
+                <span>D</span>
+                <span>u</span>
+                <span>n</span>
+                <span>g</span>
+                <span>k</span>
+                <span>a</span>
+                <span>r</span>
+                <span>&nbsp;</span>
+                <span>C</span>
+                <span>a</span>
+                <span>f</span>
+                <span>e</span>
+                <span>✨</span>
+            </div>
+            <h1 class="main-title">
+                <span>D</span>
+                <span>U</span>
+                <span>N</span>
+                <span>G</span>
+                <span>K</span>
+                <span>A</span>
+                <span>R</span>
+                <span>&nbsp;</span>
+                <span>C</span>
+                <span>A</span>
+                <span>F</span>
+                <span>E</span>
+            </h1>
+            <div class="tagline-wrapper">
+                <div class="tagline">Savor the Flavor, Embrace the Spirit</div>
+            </div>
+        </div>
+    </div>
+   
+    <div id="menu-content" style="display: none">
+        <!-- Menu content will be loaded here -->
+    </div>
+
+
+    <script src="script.js"></script>
+
+    <div class="order-panel" id="order-panel">
+        <div class="order-panel-header">
+            <h2>My Order</h2>
+            <button class="close-panel" id="close-panel">&times;</button>
+        </div>
+        <div id="order-items"></div>
+        <div class="order-summary">
+            <div class="subtotal">
+                <span>Subtotal:</span>
+                <span id="subtotal">Nu. 0</span>
+            </div>
+            <div class="packaging">
+                <span>Packaging (Nu. 20 per item):</span>
+                <span id="packaging-cost">Nu. 0</span>
+            </div>
+            <div class="total">
+                <span>Total:</span>
+                <span id="total">Nu. 0</span>
+            </div>
+        </div>
+        <button class="place-order-btn" id="place-order-btn">Place Order</button>
+    </div>
+
+    <div class="my-order-btn" id="my-order-btn">
+        <span class="order-count" id="order-count">0</span>
+        My Order
+    </div>
+</body>
+</html>
+
+

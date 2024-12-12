@@ -6,42 +6,50 @@
         {
           "name": "Deep Fry Shrimp Roll",
           "description": "Crispy Shrimp in Rice Paper served with Three Flavor Sauce",
-          "price": 120
+          "price":120,
+          "image": "images/menu/deepfriedshrimprolls.jpg"
         },
         {
           "name": "Shrimp Shumai",
           "description": "Fried Shrimp wrapped in Wonton Pastry served with Black Vinaigrette",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/shrimpshumai.jpg"
         },
         {
           "name": "Spicy Korean Chicken",
           "description": "Fried Chicken served with Korean Spicy Sauce",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/koreanfriedkchicken.jpg"
         },
         {
           "name": "BFC",
           "description": "Fried Chicken served with Red Chili Sauce and Ketchup",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/bfc.jpg"
         },
         {
           "name": "Cheese Rangoon",
           "description": "Wonton Pastry filled with Mixed Cheese with Three Flavor Sauce",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/CheeseRangoon.jpg"
         },
         {
           "name": "Fries/Chili Fries",
           "description": "Fries coated with Sweet and Sour Sauce",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/chillifries.jpg"
         },
         {
           "name": "Hat Yai Fried Chicken",
           "description": "Chicken marinated with Thai Spices and Herbs, then Deep-Fried until Golden Brown served with Three Flavor Sauce",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/HatYaiFriedChicken.jpg"
         },
         {
           "name": "Okonomiyaki",
           "description": "Pan-Fried Cabbage served with Eggless Mayonnaise and Okonomiyaki Sauce",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/Okonomiyaki.jpg"
         }
       ]
     },
@@ -51,34 +59,40 @@
         {
           "name": "Pineapple Fried Rice",
           "description": "Indonesian-style Fried Rice cooked with Pineapple and Cashew Nuts",
-          "price": 150
+          "price": 150,
+          "image": "images/menu/maincourses/Pineapple-fried-rice.jpg"
         },
         {
           "name": "Pad Thai Noodles",
           "description": "Stir-fried Rice Noodle with a Pad Thai Sauce served with Crushed Peanuts and Chili",
-          "price": 150
+          "price": 150,
+          "image": "images/menu/maincourses/PadThaiNoodles.jpg"
         },
         {
           "name": "Mongolian Chicken",
           "description": "Crispy Fried Chicken tossed in a Special Made Sauce, Chili, and Steamed Rice",
-          "price": 150
+          "price": 150,
+          "image": "images/menu/maincourses/MongolianChicken.jpg"
         },
         {
           "name": "Tonkatsu Ramen with Katsu",
           "description": "A bowl of Home-made Ramen in Flavorful Broth served with Breaded and Fried Chicken Cutlet",
-          "price": 250
+          "price": 250,
+          "image": "images/menu/maincourses/TonkatsuRamenwithKatsu.jpg"
         },
         {
           "name": "Tom Yum with Rice Noodles",
           "description": "Thai Spicy Sour Soup known for its Bold Flavor with Rice Noodle",
           "options": ["Chicken", "Shrimp", "Tofu"],
-          "price": 250
+          "price": 250,
+          "image": "images/menu/maincourses/TomYumwithRiceNoodles.jpg"
         },
         {
           "name": "Hand Made Ramen Creamy Tom Yum",
           "description": "Cream Tonkatsu Soup seasoned with Spicy and Sour Sauce served with Home-made Egg Noodle",
           "options": ["Chicken", "Shrimp", "Tofu"],
-          "price": 250
+          "price": 250,
+          "image": "images/menu/maincourses/HandMadeRamenCreamyTomYum.jpg"
         }
       ]
     },
@@ -88,22 +102,26 @@
         {
           "name": "Chicken Korma",
           "description": "Tender Chicken cooked in Creamy Gravy made with Yogurt, Onion, and Indian Spices",
-          "price": 180
+          "price": 180,
+          "image": "images/menu/curryspecials/ChickenKorma.jpg"
         },
         {
           "name": "Chicken Vindaloo Curry",
           "description": "Spicy and Tangy Curry originating from Goa, India",
-          "price": 180
+          "price": 180,
+          "image": "images/menu/curryspecials/ChickenVindalooCurry.jpg"
         },
         {
           "name": "Butter Chicken",
           "description": "Classic Indian Dish featuring Chicken cooked in a Rich Tomato and Butter-based Curry Sauce",
-          "price": 180
+          "price": 180,
+          "image": "images/menu/curryspecials/ButterChicken.jpg"
         },
         {
           "name": "Green Curry with Steamed Rice",
           "description": "Creamy, fragrant Curry with Chicken and Veggies in Coconut Milk infused with Green Curry",
-          "price": 180
+          "price": 180,
+          "image": "images/menu/curryspecials/GreenCurrywithSteamedRice.jpg"
         }
       ]
     },
@@ -113,17 +131,20 @@
         {
           "name": "Malaysian Style Nasi Goreng",
           "description": "Malaysian-style Fried Rice with Special Seasoning, Sambal, and Spices",
-          "price": 250
+          "price": 250,
+          "image": "images/menu/creativedishes/MalaysianStyleNasiGoreng.jpg"
         },
         {
           "name": "Malaysian Style Mee Goreng",
           "description": "Handmade Egg Noodle stir-fried with Special Sauce, Sambal, and Spices",
-          "price": 250
+          "price": 250,
+          "image": "images/menu/creativedishes/MalaysianStyleMeeGoreng.jpg"
         },
         {
           "name": "Malaysian Style Nasi Lemak",
           "description": "Homemade Chili Sambal served with Fried Egg and Crispy Fried Chicken",
-          "price": 250
+          "price": 250,
+          "image": "images/menu/creativedishes/MalaysianStyleNasiLemak.jpg"
         }
       ]
     },
@@ -133,22 +154,26 @@
         {
           "name": "European Style Continental",
           "description": "Poached Egg on top of Parmesan Cheese Toasted, Spicy Mayonnaise served with Butter and Jam",
-          "price": 180
+          "price": 180,
+          "image": "images/menu/breakfast/EuropeanStyleContinental.jpg"
         },
         {
           "name": "American Style Continental",
           "description": "Sunny Side-up Fried Egg with Grilled Toast, Baked Tomatoes, and Chicken Sausage",
-          "price": 180
+          "price": 180,
+          "image": "images/menu/breakfast/AmericanStyleContinental.jpg"
         },
         {
           "name": "English Style Continental",
           "description": "Scrambled Egg served with Buckwheat Pancake, Butter, and Honey",
-          "price": 180
+          "price": 180,
+          "image": "images/menu/breakfast/EnglishStyleContinental.jpg"
         },
         {
           "name": "Egg (2no) of Your Choice",
           "description": "Soft-Boiled Egg, Hard-Boiled Egg, Omelets, or Fried Egg",
-          "price": 70
+          "price": 70,
+          "image": "images/menu/breakfast/Egg(2no)ofYourChoice.jpg"
         }
       ]
     },
@@ -157,31 +182,38 @@
       "items": [
         {
           "name": "Espresso Single",
-          "price": 90
+          "price": 90,
+          "image": "images/menu/beverages/EspressoSingle.jpg"
         },
         {
           "name": "Espresso Double",
-          "price": 100
+          "price": 100,
+          "image": "images/menu/beverages/EspressoDouble.jpg"
         },
         {
           "name": "Latte",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/beverages/Latte.jpg"
         },
         {
           "name": "Cappuccino",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/beverages/Cappuccino.jpg"
         },
         {
           "name": "Hot Chocolate",
-          "price": 120
+          "price": 120,
+          "image": "images/menu/beverages/HotChocolate.jpg"
         },
         {
           "name": "Iced Americano",
-          "price": 110
+          "price": 110,
+          "image": "images/menu/beverages/IcedAmericano.jpg"
         },
         {
           "name": "Iced Latte",
-          "price": 130
+          "price": 130,
+          "image": "images/menu/beverages/IcedLatte.jpg"
         }
       ]
     }
